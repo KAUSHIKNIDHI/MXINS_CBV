@@ -17,3 +17,5 @@ urlpatterns = [
     # path('courses', CourseListView.as_view()),
     # path('courses/<int:pk>', CourseDetailView.as_view())
 ]
+
+"Nidhi Here"
